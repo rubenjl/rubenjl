@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to my site!
 
-<!--
-**rubenjl/rubenjl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! It's Rubén Jorajuría, a **Full Stack deveolper**, young but with a great attitude towards work!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technology stack
+
+- **Backend**: PHP 7.2 with Laravel
+- **Frontend**: Javascript with Vue
+
+### Currently developing skills:
+
+- Typescript
+- Test Driven Development
+- Hexagonal Architecture
+
+
+# Reach me out
+<a href="https://es.linkedin.com/in/rub%C3%A9n-jorajur%C3%ADa-l%C3%A1zaro-874052100" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
